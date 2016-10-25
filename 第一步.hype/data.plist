@@ -85,7 +85,11 @@
 	
 	</string>
 	<key>lastCheckDate</key>
+<<<<<<< HEAD
 	<date>2016-10-25T04:51:48Z</date>
+=======
+	<date>2016-10-23T04:39:27Z</date>
+>>>>>>> origin/master
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -93,7 +97,11 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{0, 0}, {1280, 697}}</string>
+=======
+			<string>{{0, 0}, {1680, 878}}</string>
+>>>>>>> origin/master
 			<key>identifier</key>
 			<string>container 1567</string>
 			<key>isCustomizableViewContainer</key>
@@ -106,6 +114,7 @@
 			<array>
 				<dict>
 					<key>frame</key>
+<<<<<<< HEAD
 					<string>{{0, 0}, {1280, 321}}</string>
 					<key>identifier</key>
 					<string>container 2469</string>
@@ -132,6 +141,11 @@
 					<string>{{0, 322}, {1280, 375}}</string>
 					<key>identifier</key>
 					<string>container 2470</string>
+=======
+					<string>{{0, 0}, {1409, 878}}</string>
+					<key>identifier</key>
+					<string>container 58</string>
+>>>>>>> origin/master
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -142,9 +156,15 @@
 					<array>
 						<dict>
 							<key>frame</key>
+<<<<<<< HEAD
 							<string>{{0, 322}, {1009, 375}}</string>
 							<key>identifier</key>
 							<string>container 837</string>
+=======
+							<string>{{0, 0}, {1138, 878}}</string>
+							<key>identifier</key>
+							<string>container 49</string>
+>>>>>>> origin/master
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -155,19 +175,71 @@
 							<array>
 								<dict>
 									<key>frame</key>
+<<<<<<< HEAD
 									<string>{{0, 322}, {1009, 375}}</string>
+=======
+									<string>{{0, 0}, {1138, 230}}</string>
+									<key>identifier</key>
+									<string>container 1170</string>
+									<key>isCustomizableViewContainer</key>
+									<true/>
+									<key>isCustomizableViewWrapper</key>
+									<true/>
+									<key>isVertical</key>
+									<true/>
+									<key>subviews</key>
+									<array>
+										<dict>
+											<key>frame</key>
+											<string>{{0, 0}, {1138, 230}}</string>
+											<key>identifier</key>
+											<string>timelineCustomizableContainer</string>
+											<key>isCustomizableViewContainer</key>
+											<false/>
+										</dict>
+									</array>
+								</dict>
+								<dict>
+									<key>frame</key>
+									<string>{{0, 231}, {1138, 647}}</string>
+>>>>>>> origin/master
 									<key>identifier</key>
 									<string>sceneEditorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
+<<<<<<< HEAD
 									<false/>
+=======
+									<true/>
+									<key>isCustomizableViewWrapper</key>
+									<true/>
+									<key>isVertical</key>
+									<true/>
+									<key>subviews</key>
+									<array>
+										<dict>
+											<key>frame</key>
+											<string>{{0, 231}, {1138, 647}}</string>
+											<key>identifier</key>
+											<string>sceneEditorCustomizableContainer</string>
+											<key>isCustomizableViewContainer</key>
+											<false/>
+										</dict>
+									</array>
+>>>>>>> origin/master
 								</dict>
 							</array>
 						</dict>
 						<dict>
 							<key>frame</key>
+<<<<<<< HEAD
 							<string>{{1010, 322}, {270, 375}}</string>
 							<key>identifier</key>
 							<string>container 1557</string>
+=======
+							<string>{{1139, 0}, {270, 878}}</string>
+							<key>identifier</key>
+							<string>container 48</string>
+>>>>>>> origin/master
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -178,7 +250,11 @@
 							<array>
 								<dict>
 									<key>frame</key>
+<<<<<<< HEAD
 									<string>{{1010, 322}, {270, 375}}</string>
+=======
+									<string>{{1139, 0}, {270, 878}}</string>
+>>>>>>> origin/master
 									<key>identifier</key>
 									<string>inspectorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -188,12 +264,42 @@
 						</dict>
 					</array>
 				</dict>
+<<<<<<< HEAD
+=======
+				<dict>
+					<key>frame</key>
+					<string>{{1410, 0}, {270, 878}}</string>
+					<key>identifier</key>
+					<string>container 57</string>
+					<key>isCustomizableViewContainer</key>
+					<true/>
+					<key>isCustomizableViewWrapper</key>
+					<true/>
+					<key>isVertical</key>
+					<true/>
+					<key>subviews</key>
+					<array>
+						<dict>
+							<key>frame</key>
+							<string>{{1410, 0}, {270, 878}}</string>
+							<key>identifier</key>
+							<string>resourcesCustomizableContainer</string>
+							<key>isCustomizableViewContainer</key>
+							<false/>
+						</dict>
+					</array>
+				</dict>
+>>>>>>> origin/master
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
 		<real>98</real>
 		<key>mainWindowFrame</key>
+<<<<<<< HEAD
 		<string>0 59 1280 741 0 0 1280 800 </string>
+=======
+		<string>0 135 1680 922 0 0 1920 1057 </string>
+>>>>>>> origin/master
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -260,7 +366,11 @@
 	<key>monotypeProjectID</key>
 	<string>7F5F6E4B-E70F-4353-B76F-638C87604475-63884-0000EEEBAA0BE269</string>
 	<key>oidCounter</key>
+<<<<<<< HEAD
 	<integer>725</integer>
+=======
+	<integer>613</integer>
+>>>>>>> origin/master
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -1222,12 +1332,23 @@
 					<key>animationController</key>
 					<dict>
 						<key>expandedItems</key>
+<<<<<<< HEAD
 						<array/>
+=======
+						<array>
+							<string>204</string>
+						</array>
+>>>>>>> origin/master
 						<key>timeCursors</key>
 						<dict>
 							<key>108</key>
 							<real>0.23333333432674408</real>
 							<key>124</key>
+<<<<<<< HEAD
+=======
+							<real>0.0</real>
+							<key>228</key>
+>>>>>>> origin/master
 							<real>0.0</real>
 							<key>228</key>
 							<real>5.4000000953674316</real>
@@ -1240,9 +1361,13 @@
 							<key>595</key>
 							<real>0.066666670143604279</real>
 							<key>611</key>
+<<<<<<< HEAD
 							<real>3.1666667461395264</real>
 							<key>717</key>
 							<real>0.53333336114883423</real>
+=======
+							<real>0.0</real>
+>>>>>>> origin/master
 							<key>kTimelineDefaultIdentifier</key>
 							<real>0.0</real>
 						</dict>
@@ -1250,7 +1375,11 @@
 						<integer>390</integer>
 					</dict>
 					<key>canvasSize</key>
+<<<<<<< HEAD
 					<string>{1120, 647}</string>
+=======
+					<string>{1240, 702}</string>
+>>>>>>> origin/master
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1652,17 +1781,24 @@ $("#gongjuxiang").on('click', function() {
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< HEAD
 			<string>CCEC4FE3-7A0A-406B-939F-F78E8595EA13-99364-0001CD0B3DDA10A7</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>252</string>
+=======
+			<string>AA24B42B-EAE0-460D-9B04-0835C3762D78-1798-0000075E80192AEB</string>
+			<key>selectedObjects</key>
+			<array>
+				<string>613</string>
+>>>>>>> origin/master
 			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
 				<false/>
 				<key>currentTimelineIdentifier</key>
-				<string>611</string>
+				<string>124</string>
 				<key>customBehaviors</key>
 				<array/>
 				<key>elements</key>
@@ -1713,6 +1849,12 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>239px</string>
@@ -1733,7 +1875,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>57</string>
+=======
+							<string>28</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3418,6 +3564,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderStyleTop</string>
 							<key>objectValue</key>
 							<string>None</string>
@@ -3427,12 +3574,21 @@ $("#gongjuxiang").on('click', function() {
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>54px</string>
+=======
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>3</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>53</string>
+=======
+							<string>8px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3559,9 +3715,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>23px</string>
+=======
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>5</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3571,9 +3733,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+=======
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3780,7 +3948,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderColorLeft</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#D8DDE4</string>
+=======
+							<string>25</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3840,7 +4012,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderWidthTop</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>1px</string>
+=======
+							<string>22</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4412,9 +4588,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderWidthTop</string>
 							<key>objectValue</key>
 							<string>1px</string>
+=======
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>475px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4424,6 +4606,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
@@ -4431,6 +4614,9 @@ $("#gongjuxiang").on('click', function() {
 						<dict>
 							<key>identifier</key>
 							<string>BorderRadiusTopRight</string>
+=======
+							<string>BorderStyleLeft</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>10px</string>
 						</dict>
@@ -4471,7 +4657,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>259px</string>
+=======
+							<string>244px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4495,7 +4685,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>35</string>
+=======
+							<string>26</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4978,7 +5172,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderStyleRight</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>None</string>
+=======
+							<string>23</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5036,6 +5234,12 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>9px</string>
@@ -5056,7 +5260,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderColorRight</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#D8DDE4</string>
+=======
+							<string>30</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5463,6 +5671,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
@@ -5514,6 +5723,59 @@ $("#gongjuxiang").on('click', function() {
 							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+=======
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>阀门2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>259px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>25px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>20</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>267px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5527,6 +5789,18 @@ $("#gongjuxiang").on('click', function() {
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
+<<<<<<< HEAD
+=======
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+					</array>
+					<key>256</key>
+					<array>
+>>>>>>> origin/master
 						<dict>
 							<key>identifier</key>
 							<string>Position</string>
@@ -11781,27 +12055,65 @@ $("#gongjuxiang").on('click', function() {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>TagName</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>上</string>
+=======
+							<string>div</string>
+>>>>>>> origin/master
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+<<<<<<< HEAD
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>561</string>
+=======
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+>>>>>>> origin/master
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+<<<<<<< HEAD
+							<string>0px</string>
+=======
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>399px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>561</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>0px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -11811,20 +12123,33 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>BackgroundImageResourceGroupOid</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>458</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>liuti shuiliu1</string>
+=======
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>476px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.72</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>6</string>
 						</dict>
 						<dict>
@@ -11838,18 +12163,57 @@ $("#gongjuxiang").on('click', function() {
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>7px</string>
+=======
+							<string>19</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>Width</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>12px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+>>>>>>> origin/master
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Group</string>
+=======
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>左</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>25px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>43px</string>
+>>>>>>> origin/master
 						</dict>
 					</array>
 					<key>487</key>
@@ -14808,15 +15172,23 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>Width</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>2</string>
+=======
+							<string>54px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>12px</string>
+=======
+							<string>1</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15145,7 +15517,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>雷尼镍料桶水流</string>
+=======
+							<string>水流1</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15157,12 +15533,17 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>180px</string>
+=======
+							<string>268px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>inline</string>
 						</dict>
 						<dict>
@@ -15200,6 +15581,45 @@ $("#gongjuxiang").on('click', function() {
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>liuti leininie</string>
+=======
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>203px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>252px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>18</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>286px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15207,6 +15627,18 @@ $("#gongjuxiang").on('click', function() {
 							<key>objectValue</key>
 							<string>div</string>
 						</dict>
+<<<<<<< HEAD
+=======
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+					</array>
+					<key>55</key>
+					<array>
+>>>>>>> origin/master
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
@@ -15971,6 +16403,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
@@ -15980,11 +16413,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>TransformOriginYOffset</string>
 							<key>objectValue</key>
 							<string>76%</string>
+=======
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>水流2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>Position</string>
 							<key>objectValue</key>
+							<string>absolute</string>
+>>>>>>> origin/master
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>椭圆形</string>
 						</dict>
 						<dict>
@@ -16028,6 +16473,51 @@ $("#gongjuxiang").on('click', function() {
 							<string>TransformOriginXOffset</string>
 							<key>objectValue</key>
 							<string>384%</string>
+=======
+							<string>180px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>80px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>17</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>86px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16035,6 +16525,30 @@ $("#gongjuxiang").on('click', function() {
 							<key>objectValue</key>
 							<string>div</string>
 						</dict>
+<<<<<<< HEAD
+=======
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+					</array>
+					<key>562</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontWeight</string>
+							<key>objectValue</key>
+							<string>normal</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>25px</string>
+						</dict>
+>>>>>>> origin/master
 						<dict>
 							<key>identifier</key>
 							<string>BorderStyleBottom</string>
@@ -16130,6 +16644,7 @@ $("#gongjuxiang").on('click', function() {
 					<array>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
 							<string>10px</string>
@@ -16145,6 +16660,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
 							<string>#F02300</string>
+=======
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>椭圆形 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>2px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16163,6 +16695,12 @@ $("#gongjuxiang").on('click', function() {
 							<string>Cursor</string>
 							<key>objectValue</key>
 							<string>pointer</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16270,7 +16808,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>3</string>
+=======
+							<string>12</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16280,21 +16822,31 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>10px</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>10px</string>
+=======
+							<string>0px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16310,18 +16862,42 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+=======
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+>>>>>>> origin/master
 						</dict>
 					</array>
 					<key>577</key>
 					<array>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+=======
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>2px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16343,7 +16919,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Display</string>
+=======
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>inline</string>
 						</dict>
@@ -16429,7 +17015,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>7</string>
+=======
+							<string>13</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16467,6 +17057,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>成物袋</string>
@@ -16482,6 +17073,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>322px</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+>>>>>>> origin/master
 						</dict>
 					</array>
 					<key>579</key>
@@ -16506,6 +17114,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ConstrainProportions</string>
 							<key>objectValue</key>
 							<string>YES</string>
@@ -16521,6 +17130,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>Cursor</string>
 							<key>objectValue</key>
 							<string>pointer</string>
+=======
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>2px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16542,7 +17168,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BackgroundRepeat</string>
+=======
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>no-repeat</string>
 						</dict>
@@ -16638,7 +17274,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>OriginalHeight</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>217px</string>
+=======
+							<string>14</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16669,6 +17309,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ConstrainProportions</string>
 							<key>objectValue</key>
 							<string>YES</string>
@@ -16684,6 +17325,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>Cursor</string>
 							<key>objectValue</key>
 							<string>pointer</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16705,6 +17363,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BackgroundRepeat</string>
 							<key>objectValue</key>
 							<string>no-repeat</string>
@@ -16720,6 +17379,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
+=======
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>椭圆形 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>2px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16741,7 +17417,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>SizeRatio</string>
+=======
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>1</string>
 						</dict>
@@ -16840,7 +17526,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>inline</string>
+=======
+							<string>15</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16868,6 +17558,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BackgroundRepeat</string>
 							<key>objectValue</key>
 							<string>no-repeat</string>
@@ -16883,6 +17574,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16904,6 +17612,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>0.420792</string>
@@ -16919,6 +17628,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>4</string>
+=======
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>2px</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16950,7 +17676,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Overflow</string>
+=======
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>visible</string>
 						</dict>
@@ -17039,7 +17775,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>UserSelect</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>none</string>
+=======
+							<string>16</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -17067,6 +17807,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>0.276243</string>
@@ -17082,6 +17823,23 @@ $("#gongjuxiang").on('click', function() {
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>2</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -17140,7 +17898,17 @@ $("#gongjuxiang").on('click', function() {
 					<array>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>OriginalWidth</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>322px</string>
 						</dict>
@@ -17160,7 +17928,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ConstrainProportions</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>YES</string>
+=======
+							<string>11</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -17333,6 +18105,12 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>25px</string>
@@ -17353,7 +18131,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>34</string>
+=======
+							<string>10</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18566,7 +19348,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#88DBED</string>
+=======
+							<string>21</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18725,7 +19511,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#D8DDE4</string>
+=======
+							<string>24</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18795,7 +19585,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Position</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>absolute</string>
 						</dict>
@@ -18815,7 +19615,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderColorRight</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#D8DDE4</string>
+=======
+							<string>9</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19283,7 +20087,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>div</string>
+=======
+							<string>27</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19293,7 +20101,17 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>ClassType</string>
+=======
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+>>>>>>> origin/master
 							<key>objectValue</key>
 							<string>Symbol</string>
 						</dict>
@@ -19461,6 +20279,7 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>4px</string>
@@ -19470,6 +20289,17 @@ $("#gongjuxiang").on('click', function() {
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
+=======
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>54px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>1</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19730,7 +20560,11 @@ $("#gongjuxiang").on('click', function() {
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
+<<<<<<< HEAD
 							<string>#FFFFFF</string>
+=======
+							<string>29</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19794,9 +20628,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+=======
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>1</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19812,9 +20652,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
+=======
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20104,6 +20950,141 @@ $("#gongjuxiang").on('click', function() {
 							<key>objectValue</key>
 							<string>2px</string>
 						</dict>
+<<<<<<< HEAD
+=======
+					</array>
+					<key>613</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>Helvetica,Arial,Sans-Serif</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>285px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>22px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>494px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>新文本</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>8</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>49px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>文本 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+					</array>
+					<key>69</key>
+					<array>
+>>>>>>> origin/master
 						<dict>
 							<key>identifier</key>
 							<string>Parent</string>
@@ -20136,9 +21117,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderStyleLeft</string>
 							<key>objectValue</key>
 							<string>Double</string>
+=======
+							<string>RotationAngleZ</string>
+							<key>objectValue</key>
+							<string>209deg</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20202,9 +21189,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderStyleBottom</string>
 							<key>objectValue</key>
 							<string>Double</string>
+=======
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20244,9 +21237,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
+=======
+							<string>RotationAngleZ</string>
+							<key>objectValue</key>
+							<string>53deg</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20313,9 +21312,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>BorderWidthRight</string>
 							<key>objectValue</key>
 							<string>2px</string>
+=======
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20355,9 +21360,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>6px</string>
+=======
+							<string>RotationAngleZ</string>
+							<key>objectValue</key>
+							<string>134deg</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -20421,9 +21432,15 @@ $("#gongjuxiang").on('click', function() {
 						</dict>
 						<dict>
 							<key>identifier</key>
+<<<<<<< HEAD
 							<string>PaddingRight</string>
 							<key>objectValue</key>
 							<string>0px</string>
+=======
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+>>>>>>> origin/master
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -28000,7 +29017,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>EEF606D3-1CA9-4657-94DF-7BEE7D149B44-99364-0001CD0B1644436B</string>
+=======
+									<string>1E2AC997-0069-4CA1-A125-2426A4CB4C35-1798-0000075E47B9C5D5</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28067,7 +29088,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>EEF606D3-1CA9-4657-94DF-7BEE7D149B44-99364-0001CD0B1644436B</string>
+=======
+									<string>1E2AC997-0069-4CA1-A125-2426A4CB4C35-1798-0000075E47B9C5D5</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28134,7 +29159,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>EEF606D3-1CA9-4657-94DF-7BEE7D149B44-99364-0001CD0B1644436B</string>
+=======
+									<string>1E2AC997-0069-4CA1-A125-2426A4CB4C35-1798-0000075E47B9C5D5</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28590,7 +29619,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>4D8FE3A9-8DEC-473C-9256-280513A57368-99364-0001CD0B1647E6A0</string>
+=======
+									<string>0162AE34-26B8-4258-9806-31804EB7C9EA-1798-0000075E47BE1162</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28657,7 +29690,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>4D8FE3A9-8DEC-473C-9256-280513A57368-99364-0001CD0B1647E6A0</string>
+=======
+									<string>0162AE34-26B8-4258-9806-31804EB7C9EA-1798-0000075E47BE1162</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28724,7 +29761,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>4D8FE3A9-8DEC-473C-9256-280513A57368-99364-0001CD0B1647E6A0</string>
+=======
+									<string>0162AE34-26B8-4258-9806-31804EB7C9EA-1798-0000075E47BE1162</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28820,7 +29861,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>E2B5C370-A961-4530-BFF0-2EEFAB5FD255-99364-0001CD0B16495EAA</string>
+=======
+									<string>36A0E246-D04C-4779-987B-CF0DB973844D-1798-0000075E47C02550</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28880,7 +29925,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>E2B5C370-A961-4530-BFF0-2EEFAB5FD255-99364-0001CD0B16495EAA</string>
+=======
+									<string>36A0E246-D04C-4779-987B-CF0DB973844D-1798-0000075E47C02550</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -28940,7 +29989,11 @@ $("#gongjuxiang").on('click', function() {
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< HEAD
 									<string>E2B5C370-A961-4530-BFF0-2EEFAB5FD255-99364-0001CD0B16495EAA</string>
+=======
+									<string>36A0E246-D04C-4779-987B-CF0DB973844D-1798-0000075E47C02550</string>
+>>>>>>> origin/master
 								</dict>
 								<key>referenceOid</key>
 								<string>86</string>
@@ -29132,6 +30185,40 @@ $("#gongjuxiang").on('click', function() {
 								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
+<<<<<<< HEAD
+=======
+								<key>motionPath</key>
+								<dict>
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{19, 112}</string>
+												<key>endPoint</key>
+												<string>{19, 112}</string>
+												<key>startControlPoint</key>
+												<string>{13, 112}</string>
+												<key>startPoint</key>
+												<string>{13, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>4839F7E4-8C36-47F4-9EA7-52536B50907B-1798-0000075E47C1C50D</string>
+								</dict>
+>>>>>>> origin/master
 								<key>referenceOid</key>
 								<string>55</string>
 								<key>startTime</key>
@@ -29174,6 +30261,7 @@ $("#gongjuxiang").on('click', function() {
 								<real>0.0</real>
 								<key>startValue</key>
 								<dict>
+<<<<<<< HEAD
 									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
@@ -29199,6 +30287,36 @@ $("#gongjuxiang").on('click', function() {
 									<string>Opacity</string>
 									<key>objectValue</key>
 									<string>0</string>
+=======
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{19, 112}</string>
+												<key>endPoint</key>
+												<string>{19, 112}</string>
+												<key>startControlPoint</key>
+												<string>{13, 112}</string>
+												<key>startPoint</key>
+												<string>{13, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>4839F7E4-8C36-47F4-9EA7-52536B50907B-1798-0000075E47C1C50D</string>
+>>>>>>> origin/master
 								</dict>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -29240,6 +30358,40 @@ $("#gongjuxiang").on('click', function() {
 								<string>Opacity</string>
 								<key>isRelative</key>
 								<false/>
+<<<<<<< HEAD
+=======
+								<key>motionPath</key>
+								<dict>
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{19, 112}</string>
+												<key>endPoint</key>
+												<string>{19, 112}</string>
+												<key>startControlPoint</key>
+												<string>{13, 112}</string>
+												<key>startPoint</key>
+												<string>{13, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>4839F7E4-8C36-47F4-9EA7-52536B50907B-1798-0000075E47C1C50D</string>
+								</dict>
+>>>>>>> origin/master
 								<key>referenceOid</key>
 								<string>620</string>
 								<key>startTime</key>
@@ -29305,6 +30457,40 @@ $("#gongjuxiang").on('click', function() {
 								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
+<<<<<<< HEAD
+=======
+								<key>motionPath</key>
+								<dict>
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{13, 112}</string>
+												<key>endPoint</key>
+												<string>{13, 112}</string>
+												<key>startControlPoint</key>
+												<string>{19, 112}</string>
+												<key>startPoint</key>
+												<string>{19, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>31B835F4-E901-466C-8FF8-83D35BDD46C0-1798-0000075E47C339E9</string>
+								</dict>
+>>>>>>> origin/master
 								<key>referenceOid</key>
 								<string>616</string>
 								<key>startTime</key>
@@ -29334,6 +30520,40 @@ $("#gongjuxiang").on('click', function() {
 								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
+<<<<<<< HEAD
+=======
+								<key>motionPath</key>
+								<dict>
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{13, 112}</string>
+												<key>endPoint</key>
+												<string>{13, 112}</string>
+												<key>startControlPoint</key>
+												<string>{19, 112}</string>
+												<key>startPoint</key>
+												<string>{19, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>31B835F4-E901-466C-8FF8-83D35BDD46C0-1798-0000075E47C339E9</string>
+								</dict>
+>>>>>>> origin/master
 								<key>referenceOid</key>
 								<string>55</string>
 								<key>startTime</key>
@@ -29363,6 +30583,40 @@ $("#gongjuxiang").on('click', function() {
 								<string>Opacity</string>
 								<key>isRelative</key>
 								<false/>
+<<<<<<< HEAD
+=======
+								<key>motionPath</key>
+								<dict>
+									<key>bezierPath</key>
+									<dict>
+										<key>allowEndPointModification</key>
+										<true/>
+										<key>bezierCurves</key>
+										<array>
+											<dict>
+												<key>endControlPoint</key>
+												<string>{13, 112}</string>
+												<key>endPoint</key>
+												<string>{13, 112}</string>
+												<key>startControlPoint</key>
+												<string>{19, 112}</string>
+												<key>startPoint</key>
+												<string>{19, 112}</string>
+											</dict>
+										</array>
+										<key>interpolationPointCount</key>
+										<real>100</real>
+										<key>showAllControlPoints</key>
+										<false/>
+										<key>useIntegerValues</key>
+										<true/>
+										<key>useSmallStyle</key>
+										<false/>
+									</dict>
+									<key>oid</key>
+									<string>31B835F4-E901-466C-8FF8-83D35BDD46C0-1798-0000075E47C339E9</string>
+								</dict>
+>>>>>>> origin/master
 								<key>referenceOid</key>
 								<string>623</string>
 								<key>startTime</key>
@@ -31511,7 +32765,7 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>779E5FCA-C01A-4123-804D-A5E83DA1AF6C-99364-0001D685E6123ACB</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31547,7 +32801,7 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>912550BF-B51C-4AC5-9AAA-874CE0FB8C8A-99364-0001D68D56B43DD0</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31583,7 +32837,11 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>C559D68D-D396-4312-9D7C-E9CB15DE2896-99364-0001D68ED2628B23</string>
 								<key>zIndex</key>
+<<<<<<< HEAD
 								<integer>1</integer>
+=======
+								<integer>3</integer>
+>>>>>>> origin/master
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31619,7 +32877,11 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>E6CCD41A-79F3-4209-91CC-C5509D9E22FB-99364-0001D6F5D88AFA95</string>
 								<key>zIndex</key>
+<<<<<<< HEAD
 								<integer>1</integer>
+=======
+								<integer>4</integer>
+>>>>>>> origin/master
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31648,7 +32910,7 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>9CA9BA73-25AD-4FC6-BD55-1A73E97592DF-99364-0001D68ED26C8510</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31684,7 +32946,7 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>D2E1AAD4-6CA4-467B-BEF2-253282238112-99364-0001D68D56BCE16A</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31742,7 +33004,11 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>D0BCB741-352C-4EA8-80C6-F55E4FCDF51A-99364-0001D699F70E9D7D</string>
 								<key>zIndex</key>
+<<<<<<< HEAD
 								<integer>2</integer>
+=======
+								<integer>5</integer>
+>>>>>>> origin/master
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -31771,7 +33037,7 @@ $("#gongjuxiang").on('click', function() {
 								<key>uuid</key>
 								<string>345A7A9E-7B79-4A3B-B271-4C6B9B5607B2-99364-0001D6950770C1D0</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>6</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -31792,7 +33058,11 @@ $("#gongjuxiang").on('click', function() {
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< HEAD
 			<string>CCEC4FE3-7A0A-406B-939F-F78E8595EA13-99364-0001CD0B3DDA10A7</string>
+=======
+			<string>AA24B42B-EAE0-460D-9B04-0835C3762D78-1798-0000075E80192AEB</string>
+>>>>>>> origin/master
 			<key>selectedObjects</key>
 			<array>
 				<string>71</string>
